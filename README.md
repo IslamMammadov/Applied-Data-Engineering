@@ -48,7 +48,7 @@ Each course has its own folder containing:
 - ✅ Assignments
 - 🧪 Practice notebooks
 - 📄 Notes and summaries
-- 🗂️ Project files (if applicable)
+- 🗂️ Project files
 
 ---
 
